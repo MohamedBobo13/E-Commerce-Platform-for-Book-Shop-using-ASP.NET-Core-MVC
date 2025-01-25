@@ -4464,11 +4464,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\E-Commerce\\Bulky\\Bulky.DataAccess\\Bulky.DataAccess.csproj",
+      "projectUniqueName": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\Bulky.DataAccess\\Bulky.DataAccess.csproj",
       "projectName": "Bulky.DataAccess",
-      "projectPath": "D:\\E-Commerce\\Bulky\\Bulky.DataAccess\\Bulky.DataAccess.csproj",
+      "projectPath": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\Bulky.DataAccess\\Bulky.DataAccess.csproj",
       "packagesPath": "C:\\Users\\Everest\\.nuget\\packages\\",
-      "outputPath": "D:\\E-Commerce\\Bulky\\Bulky.DataAccess\\obj\\",
+      "outputPath": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\Bulky.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4489,11 +4489,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\E-Commerce\\Bulky\\Bulky.Models\\Bulky.Models.csproj": {
-              "projectPath": "D:\\E-Commerce\\Bulky\\Bulky.Models\\Bulky.Models.csproj"
+            "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\Bulky.Models\\Bulky.Models.csproj": {
+              "projectPath": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\Bulky.Models\\Bulky.Models.csproj"
             },
-            "D:\\E-Commerce\\Bulky\\Bulky.Utility\\Bulky.Utility.csproj": {
-              "projectPath": "D:\\E-Commerce\\Bulky\\Bulky.Utility\\Bulky.Utility.csproj"
+            "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\Bulky.Utility\\Bulky.Utility.csproj": {
+              "projectPath": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\Bulky.Utility\\Bulky.Utility.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Lu1roEm4ym0=",
+  "dgSpecHash": "Ga6RWmQMG8I=",
   "success": true,
-  "projectFilePath": "D:\\E-Commerce\\Bulky\\BulkyWeb\\BulkyWeb.csproj",
+  "projectFilePath": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\BulkyWeb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Everest\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Everest\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
