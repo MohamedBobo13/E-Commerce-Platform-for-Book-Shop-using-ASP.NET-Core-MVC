@@ -1,0 +1,12 @@
+D:\E-Commerce\Bulky\Bulky.Utility\bin\Debug\net8.0\Bulky.Utility.deps.json
+D:\E-Commerce\Bulky\Bulky.Utility\bin\Debug\net8.0\Bulky.Utility.dll
+D:\E-Commerce\Bulky\Bulky.Utility\bin\Debug\net8.0\Bulky.Utility.pdb
+D:\E-Commerce\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\E-Commerce\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.AssemblyInfoInputs.cache
+D:\E-Commerce\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.AssemblyInfo.cs
+D:\E-Commerce\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.csproj.CoreCompileInputs.cache
+D:\E-Commerce\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.dll
+D:\E-Commerce\Bulky\Bulky.Utility\obj\Debug\net8.0\refint\Bulky.Utility.dll
+D:\E-Commerce\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.pdb
+D:\E-Commerce\Bulky\Bulky.Utility\obj\Debug\net8.0\ref\Bulky.Utility.dll
+D:\E-Commerce\Bulky\Bulky.Utility\obj\Debug\net8.0\Bulky.Utility.csproj.AssemblyReference.cache
