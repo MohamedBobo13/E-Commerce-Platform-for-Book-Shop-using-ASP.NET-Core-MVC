@@ -23,6 +23,8 @@
         // Repository for OrderHeader-related data operations
         public IOrderHeaderRepository OrderHeader { get; }
 
+        public IProductImageRepository ProductImage { get; }
+
         // Method to save all changes made in the current transaction
         void Save();
     }

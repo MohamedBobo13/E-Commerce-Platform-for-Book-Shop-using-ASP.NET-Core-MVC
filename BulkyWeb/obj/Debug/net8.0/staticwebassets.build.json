@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Vd+lxNhZdl3XIkOm4xEqYlAkDq1wJ/nUFYGsysrUJGc=",
+  "Hash": "fNFVXFqW+XVt5vTc0TO+vkz2em9IUHT3SZxNf4d9G4A=",
   "Source": "BulkyWeb",
   "BasePath": "_content/BulkyWeb",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "BulkyWeb\\wwwroot",
       "Source": "BulkyWeb",
-      "ContentRoot": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\",
+      "ContentRoot": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\",
       "BasePath": "_content/BulkyWeb",
       "Pattern": "**"
     }
@@ -1277,10 +1277,10 @@
       "OriginalItemSpec": "C:\\Users\\Everest\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.11\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\E-Commerce\\Bulky\\BulkyWeb\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BulkyWeb.styles.css",
+      "Identity": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BulkyWeb.styles.css",
       "SourceId": "BulkyWeb",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\E-Commerce\\Bulky\\BulkyWeb\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/BulkyWeb",
       "RelativePath": "BulkyWeb#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -1295,13 +1295,13 @@
       "Integrity": "QQF/8Olmx7U1okB3/Fu6Tj3iAf2DBkm88NQafvxV444=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\E-Commerce\\Bulky\\BulkyWeb\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BulkyWeb.styles.css"
+      "OriginalItemSpec": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BulkyWeb.styles.css"
     },
     {
-      "Identity": "D:\\E-Commerce\\Bulky\\BulkyWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BulkyWeb.bundle.scp.css",
+      "Identity": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BulkyWeb.bundle.scp.css",
       "SourceId": "BulkyWeb",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\E-Commerce\\Bulky\\BulkyWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/BulkyWeb",
       "RelativePath": "BulkyWeb#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -1316,13 +1316,13 @@
       "Integrity": "QQF/8Olmx7U1okB3/Fu6Tj3iAf2DBkm88NQafvxV444=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\E-Commerce\\Bulky\\BulkyWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BulkyWeb.bundle.scp.css"
+      "OriginalItemSpec": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BulkyWeb.bundle.scp.css"
     },
     {
-      "Identity": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\css\\site.css",
+      "Identity": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\css\\site.css",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\",
+      "ContentRoot": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\",
       "BasePath": "_content/BulkyWeb",
       "RelativePath": "css/site#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1340,10 +1340,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\favicon.ico",
+      "Identity": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\favicon.ico",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\",
+      "ContentRoot": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\",
       "BasePath": "_content/BulkyWeb",
       "RelativePath": "favicon#[.{fingerprint}]?.ico",
       "AssetKind": "All",
@@ -1361,10 +1361,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\Images\\book.png",
+      "Identity": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\Images\\book.png",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\",
+      "ContentRoot": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\",
       "BasePath": "_content/BulkyWeb",
       "RelativePath": "Images/book#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -1382,10 +1382,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\book.png"
     },
     {
-      "Identity": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\Images\\lawn_leaf.jpg",
+      "Identity": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\Images\\lawn_leaf.jpg",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\",
+      "ContentRoot": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\",
       "BasePath": "_content/BulkyWeb",
       "RelativePath": "Images/lawn_leaf#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1403,10 +1403,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\lawn_leaf.jpg"
     },
     {
-      "Identity": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\Images\\Product\\44d243ac-5dc9-43b3-b663-e6443880dc4b.jpg",
+      "Identity": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\Images\\Product\\44d243ac-5dc9-43b3-b663-e6443880dc4b.jpg",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\",
+      "ContentRoot": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\",
       "BasePath": "_content/BulkyWeb",
       "RelativePath": "Images/Product/44d243ac-5dc9-43b3-b663-e6443880dc4b#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1424,10 +1424,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Product\\44d243ac-5dc9-43b3-b663-e6443880dc4b.jpg"
     },
     {
-      "Identity": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\Images\\Product\\4809902c-b4c1-4880-858e-4a36ce9a762c.jpg",
+      "Identity": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\Images\\Product\\4809902c-b4c1-4880-858e-4a36ce9a762c.jpg",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\",
+      "ContentRoot": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\",
       "BasePath": "_content/BulkyWeb",
       "RelativePath": "Images/Product/4809902c-b4c1-4880-858e-4a36ce9a762c#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Product\\4809902c-b4c1-4880-858e-4a36ce9a762c.jpg"
     },
     {
-      "Identity": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\Images\\Product\\578bf3e6-cf2d-4a56-82ae-9933cb12d603.jpg",
+      "Identity": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\Images\\Product\\578bf3e6-cf2d-4a56-82ae-9933cb12d603.jpg",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\",
+      "ContentRoot": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\",
       "BasePath": "_content/BulkyWeb",
       "RelativePath": "Images/Product/578bf3e6-cf2d-4a56-82ae-9933cb12d603#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1466,10 +1466,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Product\\578bf3e6-cf2d-4a56-82ae-9933cb12d603.jpg"
     },
     {
-      "Identity": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\Images\\Product\\59a1dbdb-3507-4b2b-8378-e8fcd0e1a9d7.jpg",
+      "Identity": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\Images\\Product\\59a1dbdb-3507-4b2b-8378-e8fcd0e1a9d7.jpg",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\",
+      "ContentRoot": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\",
       "BasePath": "_content/BulkyWeb",
       "RelativePath": "Images/Product/59a1dbdb-3507-4b2b-8378-e8fcd0e1a9d7#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1487,10 +1487,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Product\\59a1dbdb-3507-4b2b-8378-e8fcd0e1a9d7.jpg"
     },
     {
-      "Identity": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\Images\\Product\\80262128-fe51-43d6-9527-e826cc4d95d2.jpg",
+      "Identity": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\Images\\Product\\80262128-fe51-43d6-9527-e826cc4d95d2.jpg",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\",
+      "ContentRoot": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\",
       "BasePath": "_content/BulkyWeb",
       "RelativePath": "Images/Product/80262128-fe51-43d6-9527-e826cc4d95d2#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1508,10 +1508,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Product\\80262128-fe51-43d6-9527-e826cc4d95d2.jpg"
     },
     {
-      "Identity": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\Images\\Product\\b01b4198-602a-4b2b-bade-c919b0cb5909.jpg",
+      "Identity": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\Images\\Product\\b01b4198-602a-4b2b-bade-c919b0cb5909.jpg",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\",
+      "ContentRoot": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\",
       "BasePath": "_content/BulkyWeb",
       "RelativePath": "Images/Product/b01b4198-602a-4b2b-bade-c919b0cb5909#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1529,10 +1529,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Product\\b01b4198-602a-4b2b-bade-c919b0cb5909.jpg"
     },
     {
-      "Identity": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\Images\\Product\\bfd94d28-494a-41b8-a409-7580cc11b6cb.jpg",
+      "Identity": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\Images\\Product\\bfd94d28-494a-41b8-a409-7580cc11b6cb.jpg",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\",
+      "ContentRoot": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\",
       "BasePath": "_content/BulkyWeb",
       "RelativePath": "Images/Product/bfd94d28-494a-41b8-a409-7580cc11b6cb#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1550,10 +1550,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Product\\bfd94d28-494a-41b8-a409-7580cc11b6cb.jpg"
     },
     {
-      "Identity": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\Images\\Product\\db9ff384-057c-4c82-87ac-5cb9297a6c04.jpg",
+      "Identity": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\Images\\Product\\db9ff384-057c-4c82-87ac-5cb9297a6c04.jpg",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\",
+      "ContentRoot": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\",
       "BasePath": "_content/BulkyWeb",
       "RelativePath": "Images/Product/db9ff384-057c-4c82-87ac-5cb9297a6c04#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1571,10 +1571,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Product\\db9ff384-057c-4c82-87ac-5cb9297a6c04.jpg"
     },
     {
-      "Identity": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\Images\\Product\\ec8d62a8-9a62-4a7d-8e8e-93cde81261da.jpg",
+      "Identity": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\Images\\Product\\ec8d62a8-9a62-4a7d-8e8e-93cde81261da.jpg",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\",
+      "ContentRoot": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\",
       "BasePath": "_content/BulkyWeb",
       "RelativePath": "Images/Product/ec8d62a8-9a62-4a7d-8e8e-93cde81261da#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1592,10 +1592,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Product\\ec8d62a8-9a62-4a7d-8e8e-93cde81261da.jpg"
     },
     {
-      "Identity": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\Images\\Product\\f21ee3e8-e948-436f-be5a-67ee5c6d9ccb.jpg",
+      "Identity": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\Images\\Product\\f21ee3e8-e948-436f-be5a-67ee5c6d9ccb.jpg",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\",
+      "ContentRoot": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\",
       "BasePath": "_content/BulkyWeb",
       "RelativePath": "Images/Product/f21ee3e8-e948-436f-be5a-67ee5c6d9ccb#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1613,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Product\\f21ee3e8-e948-436f-be5a-67ee5c6d9ccb.jpg"
     },
     {
-      "Identity": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\Images\\Product\\f375d925-6767-46b7-8e3f-4d598db4a74e.jpg",
+      "Identity": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\Images\\Product\\f375d925-6767-46b7-8e3f-4d598db4a74e.jpg",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\",
+      "ContentRoot": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\",
       "BasePath": "_content/BulkyWeb",
       "RelativePath": "Images/Product/f375d925-6767-46b7-8e3f-4d598db4a74e#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1634,10 +1634,262 @@
       "OriginalItemSpec": "wwwroot\\Images\\Product\\f375d925-6767-46b7-8e3f-4d598db4a74e.jpg"
     },
     {
-      "Identity": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\js\\product.js",
+      "Identity": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\Images\\products\\product-1\\9859b0da-7b36-47d0-b749-b043127cada4.jpg",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\",
+      "ContentRoot": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\",
+      "BasePath": "_content/BulkyWeb",
+      "RelativePath": "Images/products/product-1/9859b0da-7b36-47d0-b749-b043127cada4#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ecb6f2vn57",
+      "Integrity": "Ehr6l3Abfe+w/m+tZx+lFKvpwbF7MtDBHEgF8xRHHDI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\products\\product-1\\9859b0da-7b36-47d0-b749-b043127cada4.jpg"
+    },
+    {
+      "Identity": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\Images\\products\\product-1\\d6044975-edb4-4ad9-8aa7-86295f5590a2.jpg",
+      "SourceId": "BulkyWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\",
+      "BasePath": "_content/BulkyWeb",
+      "RelativePath": "Images/products/product-1/d6044975-edb4-4ad9-8aa7-86295f5590a2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9tz06a7s4d",
+      "Integrity": "TVOlyKh3m7AeZD5NJP+9kCVkKysVNPbLUQMt12fAikw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\products\\product-1\\d6044975-edb4-4ad9-8aa7-86295f5590a2.jpg"
+    },
+    {
+      "Identity": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\Images\\products\\product-2\\586c50cc-4baa-412d-a192-aa452249b819.jpg",
+      "SourceId": "BulkyWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\",
+      "BasePath": "_content/BulkyWeb",
+      "RelativePath": "Images/products/product-2/586c50cc-4baa-412d-a192-aa452249b819#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "e6vrbzb0s4",
+      "Integrity": "lt0jcFtT3epYeWXpcSx7Js5crNggoy7RSHvrynzuhE4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\products\\product-2\\586c50cc-4baa-412d-a192-aa452249b819.jpg"
+    },
+    {
+      "Identity": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\Images\\products\\product-2\\88b41e30-b92d-4469-99a8-d1239937ced4.jpg",
+      "SourceId": "BulkyWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\",
+      "BasePath": "_content/BulkyWeb",
+      "RelativePath": "Images/products/product-2/88b41e30-b92d-4469-99a8-d1239937ced4#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "k8tq0lak5g",
+      "Integrity": "fNXUg92Pd1vmtE6kbIjiBXoBPJNmzEhVimUsD5AsyDM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\products\\product-2\\88b41e30-b92d-4469-99a8-d1239937ced4.jpg"
+    },
+    {
+      "Identity": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\Images\\products\\product-3\\8570d28f-eeb8-42f9-8ae5-a1529a099408.jpg",
+      "SourceId": "BulkyWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\",
+      "BasePath": "_content/BulkyWeb",
+      "RelativePath": "Images/products/product-3/8570d28f-eeb8-42f9-8ae5-a1529a099408#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3hdhlwry2x",
+      "Integrity": "d0M83LQw6uIrBpHTmXyd848czM7XkFeM9B4G4Tbzsx4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\products\\product-3\\8570d28f-eeb8-42f9-8ae5-a1529a099408.jpg"
+    },
+    {
+      "Identity": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\Images\\products\\product-3\\a0ea82da-a400-4416-81e0-915d37719be1.jpg",
+      "SourceId": "BulkyWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\",
+      "BasePath": "_content/BulkyWeb",
+      "RelativePath": "Images/products/product-3/a0ea82da-a400-4416-81e0-915d37719be1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qrkel7u0jv",
+      "Integrity": "Wg7uBZsvoXmhQ+fo59ScLx53kD46rbUQzCzv0eGH1Xk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\products\\product-3\\a0ea82da-a400-4416-81e0-915d37719be1.jpg"
+    },
+    {
+      "Identity": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\Images\\products\\product-4\\a36c33e3-93e9-477a-a3b7-e8f0e39fdeb1.jpg",
+      "SourceId": "BulkyWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\",
+      "BasePath": "_content/BulkyWeb",
+      "RelativePath": "Images/products/product-4/a36c33e3-93e9-477a-a3b7-e8f0e39fdeb1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qxby501rkx",
+      "Integrity": "7mWgsD6iFU4ATUN8sqbG/WZ64+5Gt+eWOkxWihne6Pk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\products\\product-4\\a36c33e3-93e9-477a-a3b7-e8f0e39fdeb1.jpg"
+    },
+    {
+      "Identity": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\Images\\products\\product-4\\df8061ae-1bc3-4206-aee0-95cf4d5ed195.jpg",
+      "SourceId": "BulkyWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\",
+      "BasePath": "_content/BulkyWeb",
+      "RelativePath": "Images/products/product-4/df8061ae-1bc3-4206-aee0-95cf4d5ed195#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cafjpk87dy",
+      "Integrity": "JJ20MfQmqFw4v7gxWKcgzDMC6FMUXDP4K97Jj8MQzx4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\products\\product-4\\df8061ae-1bc3-4206-aee0-95cf4d5ed195.jpg"
+    },
+    {
+      "Identity": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\Images\\products\\product-5\\818da88c-b2b4-4e92-bec7-9fb34f0987f7.jpg",
+      "SourceId": "BulkyWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\",
+      "BasePath": "_content/BulkyWeb",
+      "RelativePath": "Images/products/product-5/818da88c-b2b4-4e92-bec7-9fb34f0987f7#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "asbi4wwv9t",
+      "Integrity": "1i8/WJ/teMHNz3o9tVl4SC199HnGns3AYELj/44V/cw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\products\\product-5\\818da88c-b2b4-4e92-bec7-9fb34f0987f7.jpg"
+    },
+    {
+      "Identity": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\Images\\products\\product-5\\865e6abe-9d9c-492e-81d4-71ef1496d9b9.jpg",
+      "SourceId": "BulkyWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\",
+      "BasePath": "_content/BulkyWeb",
+      "RelativePath": "Images/products/product-5/865e6abe-9d9c-492e-81d4-71ef1496d9b9#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "z6xgka4h72",
+      "Integrity": "C4jEbpqfM2ANsFlVX8N/ycqMtSMqRjg91K5WZQ4bMoA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\products\\product-5\\865e6abe-9d9c-492e-81d4-71ef1496d9b9.jpg"
+    },
+    {
+      "Identity": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\Images\\products\\product-6\\bdf46493-644f-4895-bae6-8880c511df28.jpg",
+      "SourceId": "BulkyWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\",
+      "BasePath": "_content/BulkyWeb",
+      "RelativePath": "Images/products/product-6/bdf46493-644f-4895-bae6-8880c511df28#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ye39k9dvz5",
+      "Integrity": "imEbAbBfitdQDQ31h+Ikne7ZKtjqaSOKhHJgPKW3srE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\products\\product-6\\bdf46493-644f-4895-bae6-8880c511df28.jpg"
+    },
+    {
+      "Identity": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\Images\\products\\product-6\\dfdf569c-b404-4f23-80c4-d9c6ba267dee.jpg",
+      "SourceId": "BulkyWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\",
+      "BasePath": "_content/BulkyWeb",
+      "RelativePath": "Images/products/product-6/dfdf569c-b404-4f23-80c4-d9c6ba267dee#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cppe75kvzh",
+      "Integrity": "YOsuVc7X7aynbiT4pcqav7HR8pISZD1VmxAb04p4X5Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\products\\product-6\\dfdf569c-b404-4f23-80c4-d9c6ba267dee.jpg"
+    },
+    {
+      "Identity": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\js\\product.js",
+      "SourceId": "BulkyWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\",
       "BasePath": "_content/BulkyWeb",
       "RelativePath": "js/product#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1655,10 +1907,10 @@
       "OriginalItemSpec": "wwwroot\\js\\product.js"
     },
     {
-      "Identity": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\js\\site.js",
+      "Identity": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\js\\site.js",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\",
+      "ContentRoot": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\",
       "BasePath": "_content/BulkyWeb",
       "RelativePath": "js/site#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1676,10 +1928,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\",
+      "ContentRoot": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\",
       "BasePath": "_content/BulkyWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1697,10 +1949,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\",
+      "ContentRoot": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\",
       "BasePath": "_content/BulkyWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1718,10 +1970,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\",
+      "ContentRoot": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\",
       "BasePath": "_content/BulkyWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1739,10 +1991,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\",
+      "ContentRoot": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\",
       "BasePath": "_content/BulkyWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1760,10 +2012,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\",
+      "ContentRoot": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\",
       "BasePath": "_content/BulkyWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1781,10 +2033,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\",
+      "ContentRoot": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\",
       "BasePath": "_content/BulkyWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1802,10 +2054,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\",
+      "ContentRoot": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\",
       "BasePath": "_content/BulkyWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1823,10 +2075,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\",
+      "ContentRoot": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\",
       "BasePath": "_content/BulkyWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1844,10 +2096,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\",
+      "ContentRoot": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\",
       "BasePath": "_content/BulkyWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1865,10 +2117,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\",
+      "ContentRoot": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\",
       "BasePath": "_content/BulkyWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1886,10 +2138,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\",
+      "ContentRoot": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\",
       "BasePath": "_content/BulkyWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1907,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\",
+      "ContentRoot": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\",
       "BasePath": "_content/BulkyWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1928,10 +2180,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\",
+      "ContentRoot": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\",
       "BasePath": "_content/BulkyWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1949,10 +2201,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\",
+      "ContentRoot": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\",
       "BasePath": "_content/BulkyWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1970,10 +2222,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\",
+      "ContentRoot": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\",
       "BasePath": "_content/BulkyWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1991,10 +2243,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\",
+      "ContentRoot": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\",
       "BasePath": "_content/BulkyWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2012,10 +2264,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\",
+      "ContentRoot": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\",
       "BasePath": "_content/BulkyWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2033,10 +2285,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\",
+      "ContentRoot": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\",
       "BasePath": "_content/BulkyWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2054,10 +2306,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\",
+      "ContentRoot": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\",
       "BasePath": "_content/BulkyWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2075,10 +2327,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\",
+      "ContentRoot": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\",
       "BasePath": "_content/BulkyWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2096,10 +2348,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\",
+      "ContentRoot": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\",
       "BasePath": "_content/BulkyWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2117,10 +2369,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\",
+      "ContentRoot": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\",
       "BasePath": "_content/BulkyWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2138,10 +2390,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\",
+      "ContentRoot": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\",
       "BasePath": "_content/BulkyWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2159,10 +2411,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\",
+      "ContentRoot": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\",
       "BasePath": "_content/BulkyWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2180,10 +2432,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\",
+      "ContentRoot": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\",
       "BasePath": "_content/BulkyWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2201,10 +2453,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\",
+      "ContentRoot": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\",
       "BasePath": "_content/BulkyWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2222,10 +2474,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\",
+      "ContentRoot": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\",
       "BasePath": "_content/BulkyWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2243,10 +2495,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\",
+      "ContentRoot": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\",
       "BasePath": "_content/BulkyWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2264,10 +2516,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\",
+      "ContentRoot": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\",
       "BasePath": "_content/BulkyWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2285,10 +2537,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\",
+      "ContentRoot": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\",
       "BasePath": "_content/BulkyWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2306,10 +2558,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\",
+      "ContentRoot": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\",
       "BasePath": "_content/BulkyWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -2327,10 +2579,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\",
+      "ContentRoot": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\",
       "BasePath": "_content/BulkyWeb",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2348,10 +2600,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\",
+      "ContentRoot": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\",
       "BasePath": "_content/BulkyWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2369,10 +2621,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\",
+      "ContentRoot": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\",
       "BasePath": "_content/BulkyWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2390,10 +2642,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\",
+      "ContentRoot": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\",
       "BasePath": "_content/BulkyWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2411,10 +2663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\",
+      "ContentRoot": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\",
       "BasePath": "_content/BulkyWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2432,10 +2684,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\",
+      "ContentRoot": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\",
       "BasePath": "_content/BulkyWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2453,10 +2705,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\",
+      "ContentRoot": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\",
       "BasePath": "_content/BulkyWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2474,10 +2726,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\",
+      "ContentRoot": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\",
       "BasePath": "_content/BulkyWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2495,10 +2747,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\",
+      "ContentRoot": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\",
       "BasePath": "_content/BulkyWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2516,10 +2768,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\",
+      "ContentRoot": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\",
       "BasePath": "_content/BulkyWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2537,10 +2789,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\",
+      "ContentRoot": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\",
       "BasePath": "_content/BulkyWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2558,10 +2810,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\",
+      "ContentRoot": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\",
       "BasePath": "_content/BulkyWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2579,10 +2831,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\",
+      "ContentRoot": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\",
       "BasePath": "_content/BulkyWeb",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2600,10 +2852,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\",
+      "ContentRoot": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\",
       "BasePath": "_content/BulkyWeb",
       "RelativePath": "lib/bootstrap/LICENSE#[.{fingerprint}]?",
       "AssetKind": "All",
@@ -2621,10 +2873,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\",
+      "ContentRoot": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\",
       "BasePath": "_content/BulkyWeb",
       "RelativePath": "lib/jquery/dist/jquery#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2642,10 +2894,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\",
+      "ContentRoot": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\",
       "BasePath": "_content/BulkyWeb",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2663,10 +2915,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\",
+      "ContentRoot": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\",
       "BasePath": "_content/BulkyWeb",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -2684,10 +2936,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\",
+      "ContentRoot": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\",
       "BasePath": "_content/BulkyWeb",
       "RelativePath": "lib/jquery/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -2705,10 +2957,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\",
+      "ContentRoot": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\",
       "BasePath": "_content/BulkyWeb",
       "RelativePath": "lib/jquery-validation/dist/additional-methods#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2726,10 +2978,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\",
+      "ContentRoot": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\",
       "BasePath": "_content/BulkyWeb",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2747,10 +2999,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\",
+      "ContentRoot": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\",
       "BasePath": "_content/BulkyWeb",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2768,10 +3020,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\",
+      "ContentRoot": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\",
       "BasePath": "_content/BulkyWeb",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2789,10 +3041,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\",
+      "ContentRoot": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\",
       "BasePath": "_content/BulkyWeb",
       "RelativePath": "lib/jquery-validation/LICENSE#[.{fingerprint}]?.md",
       "AssetKind": "All",
@@ -2810,10 +3062,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\",
+      "ContentRoot": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\",
       "BasePath": "_content/BulkyWeb",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2831,10 +3083,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\",
+      "ContentRoot": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\",
       "BasePath": "_content/BulkyWeb",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -2852,10 +3104,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "BulkyWeb",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\",
+      "ContentRoot": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\",
       "BasePath": "_content/BulkyWeb",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -2876,7 +3128,7 @@
   "Endpoints": [
     {
       "Route": "BulkyWeb.bundle.scp.css",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BulkyWeb.bundle.scp.css",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BulkyWeb.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2913,7 +3165,7 @@
     },
     {
       "Route": "BulkyWeb.piiugivf39.bundle.scp.css",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BulkyWeb.bundle.scp.css",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BulkyWeb.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2958,7 +3210,7 @@
     },
     {
       "Route": "BulkyWeb.piiugivf39.styles.css",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BulkyWeb.styles.css",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BulkyWeb.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3003,7 +3255,7 @@
     },
     {
       "Route": "BulkyWeb.styles.css",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BulkyWeb.styles.css",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BulkyWeb.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3040,7 +3292,7 @@
     },
     {
       "Route": "css/site.css",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\css\\site.css",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3077,7 +3329,7 @@
     },
     {
       "Route": "css/site.nxdswp9dsw.css",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\css\\site.css",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3122,7 +3374,7 @@
     },
     {
       "Route": "favicon.61n19gt1b8.ico",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\favicon.ico",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3167,7 +3419,7 @@
     },
     {
       "Route": "favicon.ico",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\favicon.ico",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5424,7 +5676,7 @@
     },
     {
       "Route": "Images/book.png",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\Images\\book.png",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\Images\\book.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5461,7 +5713,7 @@
     },
     {
       "Route": "Images/book.ta44cbam0i.png",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\Images\\book.png",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\Images\\book.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5506,7 +5758,7 @@
     },
     {
       "Route": "Images/lawn_leaf.jpg",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\Images\\lawn_leaf.jpg",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\Images\\lawn_leaf.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5543,7 +5795,7 @@
     },
     {
       "Route": "Images/lawn_leaf.r1girycgsq.jpg",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\Images\\lawn_leaf.jpg",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\Images\\lawn_leaf.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5588,7 +5840,7 @@
     },
     {
       "Route": "Images/Product/44d243ac-5dc9-43b3-b663-e6443880dc4b.asbi4wwv9t.jpg",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\Images\\Product\\44d243ac-5dc9-43b3-b663-e6443880dc4b.jpg",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\Images\\Product\\44d243ac-5dc9-43b3-b663-e6443880dc4b.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5633,7 +5885,7 @@
     },
     {
       "Route": "Images/Product/44d243ac-5dc9-43b3-b663-e6443880dc4b.jpg",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\Images\\Product\\44d243ac-5dc9-43b3-b663-e6443880dc4b.jpg",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\Images\\Product\\44d243ac-5dc9-43b3-b663-e6443880dc4b.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5670,7 +5922,7 @@
     },
     {
       "Route": "Images/Product/4809902c-b4c1-4880-858e-4a36ce9a762c.jpg",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\Images\\Product\\4809902c-b4c1-4880-858e-4a36ce9a762c.jpg",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\Images\\Product\\4809902c-b4c1-4880-858e-4a36ce9a762c.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5707,7 +5959,7 @@
     },
     {
       "Route": "Images/Product/4809902c-b4c1-4880-858e-4a36ce9a762c.qxby501rkx.jpg",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\Images\\Product\\4809902c-b4c1-4880-858e-4a36ce9a762c.jpg",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\Images\\Product\\4809902c-b4c1-4880-858e-4a36ce9a762c.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5752,7 +6004,7 @@
     },
     {
       "Route": "Images/Product/578bf3e6-cf2d-4a56-82ae-9933cb12d603.e6vrbzb0s4.jpg",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\Images\\Product\\578bf3e6-cf2d-4a56-82ae-9933cb12d603.jpg",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\Images\\Product\\578bf3e6-cf2d-4a56-82ae-9933cb12d603.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5797,7 +6049,7 @@
     },
     {
       "Route": "Images/Product/578bf3e6-cf2d-4a56-82ae-9933cb12d603.jpg",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\Images\\Product\\578bf3e6-cf2d-4a56-82ae-9933cb12d603.jpg",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\Images\\Product\\578bf3e6-cf2d-4a56-82ae-9933cb12d603.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5834,7 +6086,7 @@
     },
     {
       "Route": "Images/Product/59a1dbdb-3507-4b2b-8378-e8fcd0e1a9d7.jpg",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\Images\\Product\\59a1dbdb-3507-4b2b-8378-e8fcd0e1a9d7.jpg",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\Images\\Product\\59a1dbdb-3507-4b2b-8378-e8fcd0e1a9d7.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5871,7 +6123,7 @@
     },
     {
       "Route": "Images/Product/59a1dbdb-3507-4b2b-8378-e8fcd0e1a9d7.qrkel7u0jv.jpg",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\Images\\Product\\59a1dbdb-3507-4b2b-8378-e8fcd0e1a9d7.jpg",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\Images\\Product\\59a1dbdb-3507-4b2b-8378-e8fcd0e1a9d7.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5916,7 +6168,7 @@
     },
     {
       "Route": "Images/Product/80262128-fe51-43d6-9527-e826cc4d95d2.jpg",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\Images\\Product\\80262128-fe51-43d6-9527-e826cc4d95d2.jpg",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\Images\\Product\\80262128-fe51-43d6-9527-e826cc4d95d2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5953,7 +6205,7 @@
     },
     {
       "Route": "Images/Product/80262128-fe51-43d6-9527-e826cc4d95d2.ye39k9dvz5.jpg",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\Images\\Product\\80262128-fe51-43d6-9527-e826cc4d95d2.jpg",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\Images\\Product\\80262128-fe51-43d6-9527-e826cc4d95d2.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5998,7 +6250,7 @@
     },
     {
       "Route": "Images/Product/b01b4198-602a-4b2b-bade-c919b0cb5909.e6vrbzb0s4.jpg",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\Images\\Product\\b01b4198-602a-4b2b-bade-c919b0cb5909.jpg",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\Images\\Product\\b01b4198-602a-4b2b-bade-c919b0cb5909.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6043,7 +6295,7 @@
     },
     {
       "Route": "Images/Product/b01b4198-602a-4b2b-bade-c919b0cb5909.jpg",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\Images\\Product\\b01b4198-602a-4b2b-bade-c919b0cb5909.jpg",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\Images\\Product\\b01b4198-602a-4b2b-bade-c919b0cb5909.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6080,7 +6332,7 @@
     },
     {
       "Route": "Images/Product/bfd94d28-494a-41b8-a409-7580cc11b6cb.jpg",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\Images\\Product\\bfd94d28-494a-41b8-a409-7580cc11b6cb.jpg",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\Images\\Product\\bfd94d28-494a-41b8-a409-7580cc11b6cb.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6117,7 +6369,7 @@
     },
     {
       "Route": "Images/Product/bfd94d28-494a-41b8-a409-7580cc11b6cb.qxby501rkx.jpg",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\Images\\Product\\bfd94d28-494a-41b8-a409-7580cc11b6cb.jpg",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\Images\\Product\\bfd94d28-494a-41b8-a409-7580cc11b6cb.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6162,7 +6414,7 @@
     },
     {
       "Route": "Images/Product/db9ff384-057c-4c82-87ac-5cb9297a6c04.ecb6f2vn57.jpg",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\Images\\Product\\db9ff384-057c-4c82-87ac-5cb9297a6c04.jpg",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\Images\\Product\\db9ff384-057c-4c82-87ac-5cb9297a6c04.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6207,7 +6459,7 @@
     },
     {
       "Route": "Images/Product/db9ff384-057c-4c82-87ac-5cb9297a6c04.jpg",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\Images\\Product\\db9ff384-057c-4c82-87ac-5cb9297a6c04.jpg",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\Images\\Product\\db9ff384-057c-4c82-87ac-5cb9297a6c04.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6244,7 +6496,7 @@
     },
     {
       "Route": "Images/Product/ec8d62a8-9a62-4a7d-8e8e-93cde81261da.jpg",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\Images\\Product\\ec8d62a8-9a62-4a7d-8e8e-93cde81261da.jpg",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\Images\\Product\\ec8d62a8-9a62-4a7d-8e8e-93cde81261da.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6281,7 +6533,7 @@
     },
     {
       "Route": "Images/Product/ec8d62a8-9a62-4a7d-8e8e-93cde81261da.ye39k9dvz5.jpg",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\Images\\Product\\ec8d62a8-9a62-4a7d-8e8e-93cde81261da.jpg",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\Images\\Product\\ec8d62a8-9a62-4a7d-8e8e-93cde81261da.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6326,7 +6578,7 @@
     },
     {
       "Route": "Images/Product/f21ee3e8-e948-436f-be5a-67ee5c6d9ccb.asbi4wwv9t.jpg",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\Images\\Product\\f21ee3e8-e948-436f-be5a-67ee5c6d9ccb.jpg",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\Images\\Product\\f21ee3e8-e948-436f-be5a-67ee5c6d9ccb.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6371,7 +6623,7 @@
     },
     {
       "Route": "Images/Product/f21ee3e8-e948-436f-be5a-67ee5c6d9ccb.jpg",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\Images\\Product\\f21ee3e8-e948-436f-be5a-67ee5c6d9ccb.jpg",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\Images\\Product\\f21ee3e8-e948-436f-be5a-67ee5c6d9ccb.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6408,7 +6660,7 @@
     },
     {
       "Route": "Images/Product/f375d925-6767-46b7-8e3f-4d598db4a74e.ecb6f2vn57.jpg",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\Images\\Product\\f375d925-6767-46b7-8e3f-4d598db4a74e.jpg",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\Images\\Product\\f375d925-6767-46b7-8e3f-4d598db4a74e.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6453,7 +6705,7 @@
     },
     {
       "Route": "Images/Product/f375d925-6767-46b7-8e3f-4d598db4a74e.jpg",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\Images\\Product\\f375d925-6767-46b7-8e3f-4d598db4a74e.jpg",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\Images\\Product\\f375d925-6767-46b7-8e3f-4d598db4a74e.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6489,8 +6741,992 @@
       ]
     },
     {
+      "Route": "Images/products/product-1/9859b0da-7b36-47d0-b749-b043127cada4.ecb6f2vn57.jpg",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\Images\\products\\product-1\\9859b0da-7b36-47d0-b749-b043127cada4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "83460"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ehr6l3Abfe+w/m+tZx+lFKvpwbF7MtDBHEgF8xRHHDI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 23:50:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ecb6f2vn57"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/products/product-1/9859b0da-7b36-47d0-b749-b043127cada4.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ehr6l3Abfe+w/m+tZx+lFKvpwbF7MtDBHEgF8xRHHDI="
+        }
+      ]
+    },
+    {
+      "Route": "Images/products/product-1/9859b0da-7b36-47d0-b749-b043127cada4.jpg",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\Images\\products\\product-1\\9859b0da-7b36-47d0-b749-b043127cada4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "83460"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Ehr6l3Abfe+w/m+tZx+lFKvpwbF7MtDBHEgF8xRHHDI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 23:50:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Ehr6l3Abfe+w/m+tZx+lFKvpwbF7MtDBHEgF8xRHHDI="
+        }
+      ]
+    },
+    {
+      "Route": "Images/products/product-1/d6044975-edb4-4ad9-8aa7-86295f5590a2.9tz06a7s4d.jpg",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\Images\\products\\product-1\\d6044975-edb4-4ad9-8aa7-86295f5590a2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "77676"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TVOlyKh3m7AeZD5NJP+9kCVkKysVNPbLUQMt12fAikw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 23:53:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9tz06a7s4d"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/products/product-1/d6044975-edb4-4ad9-8aa7-86295f5590a2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TVOlyKh3m7AeZD5NJP+9kCVkKysVNPbLUQMt12fAikw="
+        }
+      ]
+    },
+    {
+      "Route": "Images/products/product-1/d6044975-edb4-4ad9-8aa7-86295f5590a2.jpg",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\Images\\products\\product-1\\d6044975-edb4-4ad9-8aa7-86295f5590a2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "77676"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TVOlyKh3m7AeZD5NJP+9kCVkKysVNPbLUQMt12fAikw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 23:53:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TVOlyKh3m7AeZD5NJP+9kCVkKysVNPbLUQMt12fAikw="
+        }
+      ]
+    },
+    {
+      "Route": "Images/products/product-2/586c50cc-4baa-412d-a192-aa452249b819.e6vrbzb0s4.jpg",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\Images\\products\\product-2\\586c50cc-4baa-412d-a192-aa452249b819.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "357574"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lt0jcFtT3epYeWXpcSx7Js5crNggoy7RSHvrynzuhE4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 23:50:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e6vrbzb0s4"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/products/product-2/586c50cc-4baa-412d-a192-aa452249b819.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lt0jcFtT3epYeWXpcSx7Js5crNggoy7RSHvrynzuhE4="
+        }
+      ]
+    },
+    {
+      "Route": "Images/products/product-2/586c50cc-4baa-412d-a192-aa452249b819.jpg",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\Images\\products\\product-2\\586c50cc-4baa-412d-a192-aa452249b819.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "357574"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lt0jcFtT3epYeWXpcSx7Js5crNggoy7RSHvrynzuhE4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 23:50:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lt0jcFtT3epYeWXpcSx7Js5crNggoy7RSHvrynzuhE4="
+        }
+      ]
+    },
+    {
+      "Route": "Images/products/product-2/88b41e30-b92d-4469-99a8-d1239937ced4.jpg",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\Images\\products\\product-2\\88b41e30-b92d-4469-99a8-d1239937ced4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "79536"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fNXUg92Pd1vmtE6kbIjiBXoBPJNmzEhVimUsD5AsyDM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 23:53:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fNXUg92Pd1vmtE6kbIjiBXoBPJNmzEhVimUsD5AsyDM="
+        }
+      ]
+    },
+    {
+      "Route": "Images/products/product-2/88b41e30-b92d-4469-99a8-d1239937ced4.k8tq0lak5g.jpg",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\Images\\products\\product-2\\88b41e30-b92d-4469-99a8-d1239937ced4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "79536"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fNXUg92Pd1vmtE6kbIjiBXoBPJNmzEhVimUsD5AsyDM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 23:53:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "k8tq0lak5g"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/products/product-2/88b41e30-b92d-4469-99a8-d1239937ced4.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fNXUg92Pd1vmtE6kbIjiBXoBPJNmzEhVimUsD5AsyDM="
+        }
+      ]
+    },
+    {
+      "Route": "Images/products/product-3/8570d28f-eeb8-42f9-8ae5-a1529a099408.3hdhlwry2x.jpg",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\Images\\products\\product-3\\8570d28f-eeb8-42f9-8ae5-a1529a099408.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "81505"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d0M83LQw6uIrBpHTmXyd848czM7XkFeM9B4G4Tbzsx4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 23:54:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3hdhlwry2x"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/products/product-3/8570d28f-eeb8-42f9-8ae5-a1529a099408.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-d0M83LQw6uIrBpHTmXyd848czM7XkFeM9B4G4Tbzsx4="
+        }
+      ]
+    },
+    {
+      "Route": "Images/products/product-3/8570d28f-eeb8-42f9-8ae5-a1529a099408.jpg",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\Images\\products\\product-3\\8570d28f-eeb8-42f9-8ae5-a1529a099408.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "81505"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d0M83LQw6uIrBpHTmXyd848czM7XkFeM9B4G4Tbzsx4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 23:54:17 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-d0M83LQw6uIrBpHTmXyd848czM7XkFeM9B4G4Tbzsx4="
+        }
+      ]
+    },
+    {
+      "Route": "Images/products/product-3/a0ea82da-a400-4416-81e0-915d37719be1.jpg",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\Images\\products\\product-3\\a0ea82da-a400-4416-81e0-915d37719be1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "135890"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Wg7uBZsvoXmhQ+fo59ScLx53kD46rbUQzCzv0eGH1Xk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 23:51:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Wg7uBZsvoXmhQ+fo59ScLx53kD46rbUQzCzv0eGH1Xk="
+        }
+      ]
+    },
+    {
+      "Route": "Images/products/product-3/a0ea82da-a400-4416-81e0-915d37719be1.qrkel7u0jv.jpg",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\Images\\products\\product-3\\a0ea82da-a400-4416-81e0-915d37719be1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "135890"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Wg7uBZsvoXmhQ+fo59ScLx53kD46rbUQzCzv0eGH1Xk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 23:51:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qrkel7u0jv"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/products/product-3/a0ea82da-a400-4416-81e0-915d37719be1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Wg7uBZsvoXmhQ+fo59ScLx53kD46rbUQzCzv0eGH1Xk="
+        }
+      ]
+    },
+    {
+      "Route": "Images/products/product-4/a36c33e3-93e9-477a-a3b7-e8f0e39fdeb1.jpg",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\Images\\products\\product-4\\a36c33e3-93e9-477a-a3b7-e8f0e39fdeb1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "103137"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7mWgsD6iFU4ATUN8sqbG/WZ64+5Gt+eWOkxWihne6Pk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 23:50:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7mWgsD6iFU4ATUN8sqbG/WZ64+5Gt+eWOkxWihne6Pk="
+        }
+      ]
+    },
+    {
+      "Route": "Images/products/product-4/a36c33e3-93e9-477a-a3b7-e8f0e39fdeb1.qxby501rkx.jpg",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\Images\\products\\product-4\\a36c33e3-93e9-477a-a3b7-e8f0e39fdeb1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "103137"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7mWgsD6iFU4ATUN8sqbG/WZ64+5Gt+eWOkxWihne6Pk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 23:50:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qxby501rkx"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/products/product-4/a36c33e3-93e9-477a-a3b7-e8f0e39fdeb1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7mWgsD6iFU4ATUN8sqbG/WZ64+5Gt+eWOkxWihne6Pk="
+        }
+      ]
+    },
+    {
+      "Route": "Images/products/product-4/df8061ae-1bc3-4206-aee0-95cf4d5ed195.cafjpk87dy.jpg",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\Images\\products\\product-4\\df8061ae-1bc3-4206-aee0-95cf4d5ed195.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "73813"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JJ20MfQmqFw4v7gxWKcgzDMC6FMUXDP4K97Jj8MQzx4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 23:53:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cafjpk87dy"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/products/product-4/df8061ae-1bc3-4206-aee0-95cf4d5ed195.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-JJ20MfQmqFw4v7gxWKcgzDMC6FMUXDP4K97Jj8MQzx4="
+        }
+      ]
+    },
+    {
+      "Route": "Images/products/product-4/df8061ae-1bc3-4206-aee0-95cf4d5ed195.jpg",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\Images\\products\\product-4\\df8061ae-1bc3-4206-aee0-95cf4d5ed195.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "73813"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"JJ20MfQmqFw4v7gxWKcgzDMC6FMUXDP4K97Jj8MQzx4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 23:53:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-JJ20MfQmqFw4v7gxWKcgzDMC6FMUXDP4K97Jj8MQzx4="
+        }
+      ]
+    },
+    {
+      "Route": "Images/products/product-5/818da88c-b2b4-4e92-bec7-9fb34f0987f7.asbi4wwv9t.jpg",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\Images\\products\\product-5\\818da88c-b2b4-4e92-bec7-9fb34f0987f7.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "214948"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1i8/WJ/teMHNz3o9tVl4SC199HnGns3AYELj/44V/cw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 23:51:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "asbi4wwv9t"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/products/product-5/818da88c-b2b4-4e92-bec7-9fb34f0987f7.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1i8/WJ/teMHNz3o9tVl4SC199HnGns3AYELj/44V/cw="
+        }
+      ]
+    },
+    {
+      "Route": "Images/products/product-5/818da88c-b2b4-4e92-bec7-9fb34f0987f7.jpg",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\Images\\products\\product-5\\818da88c-b2b4-4e92-bec7-9fb34f0987f7.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "214948"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1i8/WJ/teMHNz3o9tVl4SC199HnGns3AYELj/44V/cw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 23:51:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1i8/WJ/teMHNz3o9tVl4SC199HnGns3AYELj/44V/cw="
+        }
+      ]
+    },
+    {
+      "Route": "Images/products/product-5/865e6abe-9d9c-492e-81d4-71ef1496d9b9.jpg",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\Images\\products\\product-5\\865e6abe-9d9c-492e-81d4-71ef1496d9b9.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "81773"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"C4jEbpqfM2ANsFlVX8N/ycqMtSMqRjg91K5WZQ4bMoA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 23:54:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-C4jEbpqfM2ANsFlVX8N/ycqMtSMqRjg91K5WZQ4bMoA="
+        }
+      ]
+    },
+    {
+      "Route": "Images/products/product-5/865e6abe-9d9c-492e-81d4-71ef1496d9b9.z6xgka4h72.jpg",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\Images\\products\\product-5\\865e6abe-9d9c-492e-81d4-71ef1496d9b9.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "81773"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"C4jEbpqfM2ANsFlVX8N/ycqMtSMqRjg91K5WZQ4bMoA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 23:54:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "z6xgka4h72"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/products/product-5/865e6abe-9d9c-492e-81d4-71ef1496d9b9.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-C4jEbpqfM2ANsFlVX8N/ycqMtSMqRjg91K5WZQ4bMoA="
+        }
+      ]
+    },
+    {
+      "Route": "Images/products/product-6/bdf46493-644f-4895-bae6-8880c511df28.jpg",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\Images\\products\\product-6\\bdf46493-644f-4895-bae6-8880c511df28.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "196077"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"imEbAbBfitdQDQ31h+Ikne7ZKtjqaSOKhHJgPKW3srE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 23:50:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-imEbAbBfitdQDQ31h+Ikne7ZKtjqaSOKhHJgPKW3srE="
+        }
+      ]
+    },
+    {
+      "Route": "Images/products/product-6/bdf46493-644f-4895-bae6-8880c511df28.ye39k9dvz5.jpg",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\Images\\products\\product-6\\bdf46493-644f-4895-bae6-8880c511df28.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "196077"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"imEbAbBfitdQDQ31h+Ikne7ZKtjqaSOKhHJgPKW3srE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 23:50:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ye39k9dvz5"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/products/product-6/bdf46493-644f-4895-bae6-8880c511df28.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-imEbAbBfitdQDQ31h+Ikne7ZKtjqaSOKhHJgPKW3srE="
+        }
+      ]
+    },
+    {
+      "Route": "Images/products/product-6/dfdf569c-b404-4f23-80c4-d9c6ba267dee.cppe75kvzh.jpg",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\Images\\products\\product-6\\dfdf569c-b404-4f23-80c4-d9c6ba267dee.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "80130"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YOsuVc7X7aynbiT4pcqav7HR8pISZD1VmxAb04p4X5Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 23:54:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cppe75kvzh"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/products/product-6/dfdf569c-b404-4f23-80c4-d9c6ba267dee.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YOsuVc7X7aynbiT4pcqav7HR8pISZD1VmxAb04p4X5Q="
+        }
+      ]
+    },
+    {
+      "Route": "Images/products/product-6/dfdf569c-b404-4f23-80c4-d9c6ba267dee.jpg",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\Images\\products\\product-6\\dfdf569c-b404-4f23-80c4-d9c6ba267dee.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "80130"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YOsuVc7X7aynbiT4pcqav7HR8pISZD1VmxAb04p4X5Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 27 Jan 2025 23:54:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YOsuVc7X7aynbiT4pcqav7HR8pISZD1VmxAb04p4X5Q="
+        }
+      ]
+    },
+    {
       "Route": "js/product.3r8b2a0bt1.js",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\js\\product.js",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\js\\product.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6535,7 +7771,7 @@
     },
     {
       "Route": "js/product.js",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\js\\product.js",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\js\\product.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6572,7 +7808,7 @@
     },
     {
       "Route": "js/site.js",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\js\\site.js",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6609,7 +7845,7 @@
     },
     {
       "Route": "js/site.xtxxf3hu2r.js",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\js\\site.js",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6654,7 +7890,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6691,7 +7927,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.73kdqttayv.map",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6736,7 +7972,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.map",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6773,7 +8009,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.bpk8xqwxhs.css",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6818,7 +8054,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6855,7 +8091,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.8inm30yfxf.map",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6900,7 +8136,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.map",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6937,7 +8173,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.qzvve9m3zt.css",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6982,7 +8218,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7019,7 +8255,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.4gxs3k148c.map",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7064,7 +8300,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7101,7 +8337,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.9b9oa1qrmt.css",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7146,7 +8382,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7183,7 +8419,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.fctod5rc9n.map",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7228,7 +8464,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7265,7 +8501,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.ve6x09088i.css",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7310,7 +8546,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.agp80tu62r.css",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7355,7 +8591,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7392,7 +8628,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7429,7 +8665,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.st1cbwfwo5.map",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7474,7 +8710,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7511,7 +8747,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.5vj65cig9w.map",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7556,7 +8792,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7593,7 +8829,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.unj9p35syc.css",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7638,7 +8874,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7675,7 +8911,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.2q4vfeazbq.map",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7720,7 +8956,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7757,7 +8993,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7794,7 +9030,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7831,7 +9067,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.o371a8zbv2.map",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7876,7 +9112,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.n1oizzvkh6.css",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7921,7 +9157,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.q2ku51ktnl.css",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7966,7 +9202,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.7na4sro3qu.css",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8011,7 +9247,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8048,7 +9284,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.jeal3x0ldm.map",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8093,7 +9329,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8130,7 +9366,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8167,7 +9403,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8204,7 +9440,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.okkk44j0xs.map",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8249,7 +9485,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.f8imaxxbri.css",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8294,7 +9530,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.0wve5yxp74.css",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8339,7 +9575,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8376,7 +9612,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.cwzlr5n8x4.map",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8421,7 +9657,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8458,7 +9694,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8495,7 +9731,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8532,7 +9768,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.wmug9u23qg.map",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8577,7 +9813,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.npxfuf8dg6.css",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8622,7 +9858,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8659,7 +9895,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.j75batdsum.map",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8704,7 +9940,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8741,7 +9977,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.16095smhkz.css",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8786,7 +10022,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8823,7 +10059,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8860,7 +10096,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.vy0bq9ydhf.map",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8905,7 +10141,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.b4skse8du6.css",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8950,7 +10186,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8987,7 +10223,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.ab1c3rmv7g.map",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9032,7 +10268,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9069,7 +10305,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9106,7 +10342,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.56d2bn4wt9.map",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9151,7 +10387,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9188,7 +10424,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.u3xrusw2ol.css",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9233,7 +10469,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.tey0rigmnh.css",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9278,7 +10514,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9315,7 +10551,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.kbynt5jhd9.map",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9360,7 +10596,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9397,7 +10633,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.l2av4jpuoj.js",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9442,7 +10678,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.25iw1kog22.js",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9487,7 +10723,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9524,7 +10760,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.c2nslu3uf3.map",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9569,7 +10805,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9606,7 +10842,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9643,7 +10879,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.2lgwfvgpvi.map",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9688,7 +10924,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9725,7 +10961,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.m39kt2b5c9.js",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9770,7 +11006,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9807,7 +11043,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9844,7 +11080,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.wsezl0heh6.map",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9889,7 +11125,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.um2aeqy4ik.js",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9934,7 +11170,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9971,7 +11207,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.6ukhryfubh.map",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10016,7 +11252,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.map",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10053,7 +11289,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10090,7 +11326,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.map",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10127,7 +11363,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.u33ctipx7g.map",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10172,7 +11408,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.zwph15dxgs.js",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10217,7 +11453,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.o4kw7cc6tf.js",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10262,7 +11498,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10299,7 +11535,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE.81b7ukuj9c",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10344,7 +11580,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.fwhahm2icz.js",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10389,7 +11625,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.js",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10426,7 +11662,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.5pze98is44.map",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10471,7 +11707,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.dd6z7egasc.js",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10516,7 +11752,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.js",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10553,7 +11789,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.map",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10590,7 +11826,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.mlv21k5csn.txt",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10635,7 +11871,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.txt",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10672,7 +11908,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.ay5nd8zt9x.js",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10717,7 +11953,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.js",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10754,7 +11990,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.9oaff4kq20.js",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10799,7 +12035,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.js",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10836,7 +12072,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.js",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10873,7 +12109,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.b7iojwaux1.js",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10918,7 +12154,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.js",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10955,7 +12191,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.pzqfkb6aqo.js",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11000,7 +12236,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.md",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11037,7 +12273,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.x0q3zqp4vz.md",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11082,7 +12318,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.47otxtyo56.js",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11127,7 +12363,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11164,7 +12400,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.4v8eqarkd7.js",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11209,7 +12445,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11246,7 +12482,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.356vix0kms.txt",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11291,7 +12527,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.txt",
-      "AssetFile": "D:\\E-Commerce\\Bulky\\BulkyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "D:\\E-Commerce Platform for Book Shop using ASP.NET Core MVC\\BulkyWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
