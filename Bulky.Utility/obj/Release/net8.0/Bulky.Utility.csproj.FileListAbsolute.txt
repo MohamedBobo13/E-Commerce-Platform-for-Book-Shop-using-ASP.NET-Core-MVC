@@ -1,0 +1,13 @@
+D:\E-Commerce Platform for Book Shop using ASP.NET Core MVC\Bulky.Utility\bin\Release\net8.0\Bulky.Utility.deps.json
+D:\E-Commerce Platform for Book Shop using ASP.NET Core MVC\Bulky.Utility\bin\Release\net8.0\Bulky.Utility.dll
+D:\E-Commerce Platform for Book Shop using ASP.NET Core MVC\Bulky.Utility\bin\Release\net8.0\Bulky.Utility.pdb
+D:\E-Commerce Platform for Book Shop using ASP.NET Core MVC\Bulky.Utility\obj\Release\net8.0\Bulky.Utility.csproj.AssemblyReference.cache
+D:\E-Commerce Platform for Book Shop using ASP.NET Core MVC\Bulky.Utility\obj\Release\net8.0\Bulky.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\E-Commerce Platform for Book Shop using ASP.NET Core MVC\Bulky.Utility\obj\Release\net8.0\Bulky.Utility.AssemblyInfoInputs.cache
+D:\E-Commerce Platform for Book Shop using ASP.NET Core MVC\Bulky.Utility\obj\Release\net8.0\Bulky.Utility.AssemblyInfo.cs
+D:\E-Commerce Platform for Book Shop using ASP.NET Core MVC\Bulky.Utility\obj\Release\net8.0\Bulky.Utility.csproj.CoreCompileInputs.cache
+D:\E-Commerce Platform for Book Shop using ASP.NET Core MVC\Bulky.Utility\obj\Release\net8.0\Bulky.Utility.sourcelink.json
+D:\E-Commerce Platform for Book Shop using ASP.NET Core MVC\Bulky.Utility\obj\Release\net8.0\Bulky.Utility.dll
+D:\E-Commerce Platform for Book Shop using ASP.NET Core MVC\Bulky.Utility\obj\Release\net8.0\refint\Bulky.Utility.dll
+D:\E-Commerce Platform for Book Shop using ASP.NET Core MVC\Bulky.Utility\obj\Release\net8.0\Bulky.Utility.pdb
+D:\E-Commerce Platform for Book Shop using ASP.NET Core MVC\Bulky.Utility\obj\Release\net8.0\ref\Bulky.Utility.dll

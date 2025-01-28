@@ -132,7 +132,7 @@ namespace BulkyWeb.Areas.Admin.Controllers
                 .GetAll(u => u.OrderHeaderId == OrderVM.OrderHeader.Id, includeProperty: "Product");
 
             //stripe logic
-            var domain = "https://localhost:7132/";
+            var domain = Request.Scheme + "://" + Request.Host.Value + "/";
             var options = new Stripe.Checkout.SessionCreateOptions
             {
                 SuccessUrl = domain + $"Admin/Order/PaymentConfirmation?orderHeaderId={OrderVM.OrderHeader.Id}",
